@@ -1,8 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Tienne:900|Fira+Sans:300);
 
 #header {
-    background-color:#33C5F4;
-    color:#292664;
+    color:#CC3332;
     text-align:center;
     padding:3px;
 }
@@ -41,7 +40,7 @@ form{
 figcaption{
 	font-family: "Fira Sans", Helvetica, sans-serif;
 	text-align:center;
-	color:#33C5F4;
+	color:#CC3332;
 	font-size: 225%;
 }
 
@@ -68,14 +67,14 @@ p {
 p.one{
 	font-family: "Fira Sans", Helvetica, sans-serif;
 	text-align:center;
-	color:#33C5F4;
+	color:#CC3332;
 	font-size: 175%;
 }
 
 p.two{
 	font-family: "Fira Sans", Helvetica, sans-serif;
 	text-align:center;
-	color:#33C5F4;
+	color:#CC3332;
 	font-size: 225%;
 }
 
